@@ -2,3 +2,4 @@ node_modules
 config.js
 projectconfig.json
 client_id.js
+.env
