@@ -1,4 +1,4 @@
 module.exports = {
-  "key": "AIzaSyD_ISjS3xd4Wg4nX0stIyrgsCbRWwjgMlc",
-  "calendarId": "e0mc6toegtj0gv0aqtlgc4cd7k@group.calendar.google.com"
+  "key": "AIzaSyAleZdtUPIrzaNGnIe_bRgnCP8VRQ-rBJM",
+  "calendarId": "9mn7qfmf0nhpe7lf5bm9r2da3s@group.calendar.google.com"
 }
